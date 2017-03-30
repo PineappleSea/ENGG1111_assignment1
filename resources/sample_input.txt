@@ -1,0 +1,56 @@
+7
+13
+single se 1,6
+double ne 4,6
+single nw 3,3
+source east 1,2
+single se 2,5
+source east 0,3
+double ne 5,4
+dest 4,1
+single sw 3,5
+single ne 1,4
+single nw 2,2
+dest 5,3
+double nw 2,4
+
+
+7
+16
+single se 1,6
+dest 4,1
+single se 2,5
+source east 0,3
+double ne 2,6
+single nw 3,3
+source north 2,2
+double ne 5,4
+single sw 3,5
+double ne 1,0
+dest 6,2
+block 3,0
+source east 0,1
+single ne 1,4
+double nw 2,4
+single sw 1,1
+
+
+5
+7
+source west 2,2
+source east 1,1
+dest 4,3
+double ne 1,2
+block 3,0
+double nw 1,3
+double ne 3,1
+
+
+3
+6
+source west 1,2
+source east 2,2
+source south 2,1
+source north 1,1
+dest 2,0
+double ne 0,0
